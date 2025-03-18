@@ -19,7 +19,7 @@ Evaluation Metrics 📉: Analyzes model performance with RMSE and MAE.
 
 Clone the repository:
 
-git clone https://github.com/your-repo/petrol-price-forecasting.git
+git clone https://github.com/ranjith-005/-AutoFuel-Price-Predictor-/.git
 
 Install dependencies:
 
